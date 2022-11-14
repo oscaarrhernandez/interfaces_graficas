@@ -55,9 +55,25 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Agregarcoche.xaml.cs">
+      <DependentUpon>Agregarcoche.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Agregarrepostaje.xaml.cs">
+      <DependentUpon>Agregarrepostaje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Coche.cs" />
+    <Compile Include="Repostaje.cs" />
     <Compile Include="Window1.xaml.cs">
       <DependentUpon>Window1.xaml</DependentUpon>
     </Compile>
+    <Page Include="Agregarcoche.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Agregarrepostaje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

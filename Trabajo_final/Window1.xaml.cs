@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,27 @@ namespace Trabajo_final
         public Window1()
         {
             InitializeComponent();
+        }
+
+        private void MenuAgregarCoche_Click(object sender, RoutedEventArgs e)
+        {
+            Agregarcoche newcoche = new Agregarcoche();
+            newcoche.ShowDialog();
+            if (newcoche.DialogResult == true)
+            {
+                //controlo subir datos
+                Coche coche = new Coche(newcoche.introducirmatricula.Text, newcoche.introducirmarca.Text, float.Parse(newcoche.introducirkilometros.Text), null);
+                listacoches.Items.Add(coche);
+            }
+        }
+        private void MenuAgregarRepostaje_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void lista_SelectionCoche(object sender, SelectionChangedEventArgs e)
+        {
+
         }
     }
 }
