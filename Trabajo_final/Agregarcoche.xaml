@@ -27,9 +27,9 @@
         <Label Grid.Row="3" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Matricula"></Label>
         <Label Grid.Row="4" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Marca"></Label>
         <Label Grid.Row="5" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Kilometros"></Label>
-        <TextBox Name="introducirmatricula" Margin="10" Grid.Row="3" Grid.Column="2"/>
-        <TextBox Name="introducirmarca" Margin="10" Grid.Row="4" Grid.Column="2"/>
-        <TextBox Name="introducirkilometros" Margin="10" Grid.Row="5" Grid.Column="2"/>
+        <TextBox Name="introducirmatricula" Margin="10" Grid.Row="3" Grid.Column="2" SelectionChanged="introducirmatricula_SelectionChanged"/>
+        <TextBox Name="introducirmarca" Margin="10" Grid.Row="4" Grid.Column="2" SelectionChanged="introducirmarca_SelectionChanged"/>
+        <TextBox Name="introducirkilometros" Margin="10" Grid.Row="5" Grid.Column="2" SelectionChanged="introducirkilometros_SelectionChanged"/>
         <Button Name="añadir" Content="Añadir" Grid.Row="7" Grid.Column="1" HorizontalAlignment="Center" Width="110" Click="Button_AnadirCoche_Click"/>
         <Button Name="repostaje" Content="Repostaje" Grid.Row="7" Grid.Column="0" Width="110" Click="Button_AnadirRepostaje_Click"/>
 

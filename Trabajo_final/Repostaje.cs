@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Trabajo_final
 {
-    internal class Repostaje
+    public class Repostaje
     {
         public float Kilometraje { get; set; } 
         public float Coste { get; set; }

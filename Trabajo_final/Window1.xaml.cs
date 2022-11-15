@@ -32,8 +32,8 @@ namespace Trabajo_final
             if (newcoche.DialogResult == true)
             {
                 //controlo subir datos
-                Coche coche = new Coche(newcoche.introducirmatricula.Text, newcoche.introducirmarca.Text, float.Parse(newcoche.introducirkilometros.Text), null);
-                listacoches.Items.Add(coche);
+                
+                listacoches.Items.Add(newcoche.AnadirCoche);
             }
         }
         private void MenuAgregarRepostaje_Click(object sender, RoutedEventArgs e)

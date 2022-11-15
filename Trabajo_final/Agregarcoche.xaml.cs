@@ -21,15 +21,21 @@ namespace Trabajo_final
     /// </summary>
     public partial class Agregarcoche : Window
     {
+        Coche newcar;
+
+        public Coche AnadirCoche { get { return newcar; }}
+
         public Agregarcoche()
         {
             InitializeComponent();
         }
         private void Button_AnadirCoche_Click(object sender, RoutedEventArgs e)
         {
-            if(Check_TextBox() == true && Check_Button())
+            if(Check_TextBox() && Check_Button())
             {
-                DialogResult =true;
+                newcar = new Coche(introducirmatricula.Text, introducirmarca.Text, float.Parse(introducirkilometros.Text), null);
+                
+                DialogResult = true;
             }
         }
 
@@ -42,11 +48,21 @@ namespace Trabajo_final
                 introducirmatricula.Background = Brushes.IndianRed;
                 check = false;
             }
+            else
+            {
+                introducirmatricula.Background = Brushes.White;
+
+            }
             if (String.IsNullOrEmpty(introducirmarca.Text))
             {
                 MessageBox.Show("El campo marca está vacio.");
                 introducirmarca.Background = Brushes.IndianRed;
                 check = false;
+            }
+            else
+            {
+                introducirmarca.Background = Brushes.White;
+
             }
             if (String.IsNullOrEmpty(introducirkilometros.Text))
             {
@@ -54,6 +70,12 @@ namespace Trabajo_final
                 introducirkilometros.Background = Brushes.IndianRed;
                 check = false;
             }
+            else
+            {
+                introducirkilometros.Background = Brushes.White;
+            }
+            
+            
             return check;
         }
         bool chbutton = false;
@@ -63,7 +85,6 @@ namespace Trabajo_final
             if (chbutton==false)
             {
                 MessageBox.Show("Se debe añadir los datos de un repostaje.");
-                repostaje.Background = Brushes.IndianRed;
             }
             return chbutton;
         }
@@ -73,9 +94,23 @@ namespace Trabajo_final
 
             //pasar al metodo agregarrepostaje
             //si se agregan los datos
-                chbutton = true;
+            chbutton = true;
 
-            DialogResult = true;
+        }
+
+        private void introducirmatricula_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+            introducirmatricula.Background = Brushes.White;
+        }
+
+        private void introducirmarca_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+            introducirmarca.Background = Brushes.White;
+        }
+
+        private void introducirkilometros_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+            introducirkilometros.Background = Brushes.White;
         }
     }
 }

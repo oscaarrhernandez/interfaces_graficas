@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Trabajo_final
 {
-    internal class Coche
+    public class Coche
     {
         public string Matricula { get; set; }
         public string Marca { get; set; }
