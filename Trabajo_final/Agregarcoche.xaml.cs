@@ -31,14 +31,13 @@ namespace Trabajo_final
         }
         private void Button_AnadirCoche_Click(object sender, RoutedEventArgs e)
         {
-            if(Check_TextBox() && Check_Button())
+            if(Check_TextBox())
             {
                 newcar = new Coche(introducirmatricula.Text, introducirmarca.Text, float.Parse(introducirkilometros.Text), null);
                 
                 DialogResult = true;
             }
         }
-
         private bool Check_TextBox()
         {
             bool check = true;
@@ -74,40 +73,27 @@ namespace Trabajo_final
             {
                 introducirkilometros.Background = Brushes.White;
             }
-            
-            
             return check;
         }
-        bool chbutton = false;
-        private bool Check_Button()
-        {
-            
-            if (chbutton==false)
-            {
-                MessageBox.Show("Se debe añadir los datos de un repostaje.");
-            }
-            return chbutton;
-        }
+       
         private void Button_AnadirRepostaje_Click(object sender, RoutedEventArgs e)
         {
             //traer la matricula metida
 
             //pasar al metodo agregarrepostaje
             //si se agregan los datos
-            chbutton = true;
+            
 
         }
-
+        
         private void introducirmatricula_SelectionChanged(object sender, RoutedEventArgs e)
         {
             introducirmatricula.Background = Brushes.White;
         }
-
         private void introducirmarca_SelectionChanged(object sender, RoutedEventArgs e)
         {
             introducirmarca.Background = Brushes.White;
         }
-
         private void introducirkilometros_SelectionChanged(object sender, RoutedEventArgs e)
         {
             introducirkilometros.Background = Brushes.White;

@@ -25,23 +25,43 @@ namespace Trabajo_final
             InitializeComponent();
         }
 
-        private void MenuAgregarCoche_Click(object sender, RoutedEventArgs e)
+        private void AddCar(object sender, RoutedEventArgs e)
         {
             Agregarcoche newcoche = new Agregarcoche();
             newcoche.ShowDialog();
             if (newcoche.DialogResult == true)
             {
                 //controlo subir datos
-                
+
                 listacoches.Items.Add(newcoche.AnadirCoche);
             }
         }
-        private void MenuAgregarRepostaje_Click(object sender, RoutedEventArgs e)
-        {
-            
-        }
-
         private void lista_SelectionCoche(object sender, SelectionChangedEventArgs e)
+        {
+            if(listacoches.SelectedItem != null)
+            {
+                //Si la lista no está vacia, muestra en la listarepostajes los repostajes de ese coche si existen
+            }
+        }
+        
+        private void DeleteCar(object sender, RoutedEventArgs e)
+        {
+            string messageBoxText = "¿Está seguro de eliminar el vehiculo con matricula?";
+            
+            string caption = "Eliminar";
+            MessageBoxButton button = MessageBoxButton.YesNo;
+            MessageBoxImage icon = MessageBoxImage.Warning;
+            MessageBoxResult result;
+            result = MessageBox.Show(messageBoxText, caption, button, icon, MessageBoxResult.No);
+            if(result == MessageBoxResult.Yes)
+            {
+                listacoches.Items.Remove(listacoches.SelectedItem);
+                listacoches.Items.Refresh();
+
+            }
+
+        }
+        private void AddFuel(object sender, RoutedEventArgs e)
         {
 
         }

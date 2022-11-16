@@ -117,5 +117,21 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="iconos\icons8-remove-24.png" />
+    <Resource Include="iconos\icons8-remove-48.png" />
+    <Resource Include="iconos\icons8-remove-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="iconos\icons8-add-new-24.png" />
+    <Resource Include="iconos\icons8-add-new-48.png" />
+    <Resource Include="iconos\icons8-add-new-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="iconos\icons8-pencil-30.png" />
+    <Resource Include="iconos\icons8-pencil-60.png" />
+    <Resource Include="iconos\icons8-pencil-90.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

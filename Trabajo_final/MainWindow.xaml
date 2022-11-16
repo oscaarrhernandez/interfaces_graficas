@@ -6,6 +6,8 @@
         xmlns:local="clr-namespace:Trabajo_final"
         mc:Ignorable="d"
         Closing="Window_Closing"
+        MinHeight="200"
+        MinWidth="300"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         
