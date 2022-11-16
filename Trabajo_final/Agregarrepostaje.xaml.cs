@@ -24,5 +24,9 @@ namespace Trabajo_final
             InitializeComponent();
         }
 
+        private void Button_AnadirFuel_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

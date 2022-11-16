@@ -16,7 +16,7 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
-            <RowDefinition Height="40"/>
+            <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
 
@@ -27,14 +27,17 @@
         </Grid.ColumnDefinitions>
         <Label></Label>
         <Label Grid.Row="0" Margin="20" Grid.Column="1" Content="Datos del repostaje" FontSize="20"/>
-        <Label Grid.Row="3" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Matricula"></Label>
-        <Label Grid.Row="4" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Marca"></Label>
-        <Label Grid.Row="5" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Kilometros"></Label>
-        <TextBox Name="introducirmatricula" Margin="10" Grid.Row="3" Grid.Column="2"/>
-        <TextBox Name="introducirmarca" Margin="10" Grid.Row="4" Grid.Column="2"/>
-        <TextBox Name="introducirkilometros" Margin="10" Grid.Row="5" Grid.Column="2"/>
-        <Button Content="Añadir" Grid.Row="7" Grid.Column="1" HorizontalAlignment="Center" Width="110"/>
-        <Button Content="Repostaje" Grid.Row="7" Grid.Column="0" Width="110"/>
+        <Label Grid.Row="3" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Kilometros"></Label>
+        <Label Grid.Row="4" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Litros"></Label>
+        <Label Grid.Row="5" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Coste"></Label>
+        <Label Grid.Row="6" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Fecha"></Label>
+
+        <TextBox Name="introducirkilometros" Margin="10" Grid.Row="3" Grid.Column="2"/>
+        <TextBox Name="introducirlitros" Margin="10" Grid.Row="4" Grid.Column="2"/>
+        <TextBox Name="introducircoste" Margin="10" Grid.Row="5" Grid.Column="2"/>
+        <TextBox Name="introducirfecha" Margin="10" Grid.Row="6" Grid.Column="2"/>
+
+        <Button Content="Añadir" Grid.Row="7" Grid.Column="1" HorizontalAlignment="Center" Width="100" Click="Button_AnadirFuel_Click"/>
 
     </Grid>
 </Window>

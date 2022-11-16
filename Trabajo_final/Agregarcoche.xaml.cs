@@ -22,7 +22,7 @@ namespace Trabajo_final
     public partial class Agregarcoche : Window
     {
         Coche newcar;
-
+        List<Repostaje> repostajecoche = null;
         public Coche AnadirCoche { get { return newcar; }}
 
         public Agregarcoche()
@@ -33,7 +33,7 @@ namespace Trabajo_final
         {
             if(Check_TextBox())
             {
-                newcar = new Coche(introducirmatricula.Text, introducirmarca.Text, float.Parse(introducirkilometros.Text), null);
+                newcar = new Coche(introducirmatricula.Text, introducirmarca.Text, float.Parse(introducirkilometros.Text), repostajecoche);
                 
                 DialogResult = true;
             }
@@ -79,7 +79,7 @@ namespace Trabajo_final
         private void Button_AnadirRepostaje_Click(object sender, RoutedEventArgs e)
         {
             //traer la matricula metida
-
+            
             //pasar al metodo agregarrepostaje
             //si se agregan los datos
             

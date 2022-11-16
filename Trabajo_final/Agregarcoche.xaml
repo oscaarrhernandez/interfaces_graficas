@@ -19,12 +19,13 @@
             <RowDefinition Height="40"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
-
         </Grid.RowDefinitions>
+        
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+        
         <Label Grid.Row="0" Margin="20" Grid.Column="1" Content="Datos del vehiculo" FontSize="20"/>
         <Label Grid.Row="3" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Matricula"></Label>
         <Label Grid.Row="4" Margin="10,10,10,10" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Marca"></Label>

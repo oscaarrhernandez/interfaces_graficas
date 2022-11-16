@@ -48,7 +48,7 @@ namespace Trabajo_final
         {
             if(listacoches.SelectedItem != null)
             {
-                string messageBoxTextdelete = "¿Está seguro de eliminar el vehiculo con matricula?";
+                string messageBoxTextdelete = "¿Está seguro de eliminar el vehiculo con matricula ?";
                 string captiondelete = "Eliminar";
                 MessageBoxButton buttondelete = MessageBoxButton.YesNo;
                 MessageBoxImage icondelete = MessageBoxImage.Warning;
