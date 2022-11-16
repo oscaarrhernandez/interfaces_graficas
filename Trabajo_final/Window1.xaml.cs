@@ -40,24 +40,33 @@ namespace Trabajo_final
         {
             if(listacoches.SelectedItem != null)
             {
-                //Si la lista no está vacia, muestra en la listarepostajes los repostajes de ese coche si existen
+                
             }
         }
         
         private void DeleteCar(object sender, RoutedEventArgs e)
         {
-            string messageBoxText = "¿Está seguro de eliminar el vehiculo con matricula?";
-            
-            string caption = "Eliminar";
-            MessageBoxButton button = MessageBoxButton.YesNo;
-            MessageBoxImage icon = MessageBoxImage.Warning;
-            MessageBoxResult result;
-            result = MessageBox.Show(messageBoxText, caption, button, icon, MessageBoxResult.No);
-            if(result == MessageBoxResult.Yes)
+            if(listacoches.SelectedItem != null)
             {
-                listacoches.Items.Remove(listacoches.SelectedItem);
-                listacoches.Items.Refresh();
-
+                string messageBoxTextdelete = "¿Está seguro de eliminar el vehiculo con matricula?";
+                string captiondelete = "Eliminar";
+                MessageBoxButton buttondelete = MessageBoxButton.YesNo;
+                MessageBoxImage icondelete = MessageBoxImage.Warning;
+                MessageBoxResult result;
+                result = MessageBox.Show(messageBoxTextdelete, captiondelete, buttondelete, icondelete, MessageBoxResult.No);
+                if (result == MessageBoxResult.Yes)
+                {
+                    listacoches.Items.Remove(listacoches.SelectedItem);
+                    listacoches.Items.Refresh();
+                }
+            }
+            else
+            {
+                string messageBoxTextcheck = "Por favor, seleccione un elemento de la lista.";
+                MessageBoxButton buttoncheck = MessageBoxButton.OK;
+                MessageBoxImage iconcheck = MessageBoxImage.Exclamation;
+                MessageBoxResult resultcheck;
+                resultcheck = MessageBox.Show(messageBoxTextcheck, "Error", buttoncheck, iconcheck, MessageBoxResult.OK);
             }
 
         }
