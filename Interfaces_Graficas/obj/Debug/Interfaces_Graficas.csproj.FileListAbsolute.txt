@@ -1,0 +1,78 @@
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\bin\Debug\Interfaces_Graficas.exe.config
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\bin\Debug\Interfaces_Graficas.exe
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\bin\Debug\Interfaces_Graficas.pdb
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.AssemblyReference.cache
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.SuggestedBindingRedirects.cache
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\MainWindow.g.cs
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\NewAuto.g.cs
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\NewRepos.g.cs
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Tablas.g.cs
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\App.g.cs
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas_MarkupCompile.cache
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas_MarkupCompile.lref
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\MainWindow.baml
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\NewAuto.baml
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\NewRepos.baml
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Tablas.baml
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.g.resources
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.Properties.Resources.resources
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.GenerateResource.cache
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.CoreCompileInputs.cache
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.exe
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.pdb
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.AssemblyReference.cache
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\EditAuto.g.cs
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\MainWindow.g.cs
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\NewAuto.g.cs
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\NewRepos.g.cs
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Tablas.g.cs
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\App.g.cs
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas_MarkupCompile.cache
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas_MarkupCompile.lref
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.exe
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.pdb
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\bin\Debug\Interfaces_Graficas.exe.config
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\bin\Debug\Interfaces_Graficas.exe
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\bin\Debug\Interfaces_Graficas.pdb
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\EditAuto.baml
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\MainWindow.baml
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\NewAuto.baml
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\NewRepos.baml
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Tablas.baml
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.g.resources
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.Properties.Resources.resources
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.GenerateResource.cache
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.CoreCompileInputs.cache
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\EditRepos.g.cs
+C:\Users\oscaa\Desktop\UNIVERSIDAD\INTERFACES GRÁFICAS\Nueva carpeta\Interfaces_Graficas\obj\Debug\EditRepos.baml
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\EditAuto.g.cs
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\EditRepos.g.cs
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\EditAuto.baml
+D:\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\EditRepos.baml
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\bin\Debug\Interfaces_Graficas.exe.config
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\bin\Debug\Interfaces_Graficas.exe
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\bin\Debug\Interfaces_Graficas.pdb
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.AssemblyReference.cache
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\EditAuto.g.cs
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\EditRepos.g.cs
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\MainWindow.g.cs
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\NewAuto.g.cs
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\NewRepos.g.cs
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Tablas.g.cs
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\App.g.cs
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas_MarkupCompile.cache
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas_MarkupCompile.lref
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\EditAuto.baml
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\EditRepos.baml
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\MainWindow.baml
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\NewAuto.baml
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\NewRepos.baml
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Tablas.baml
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.g.resources
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.Properties.Resources.resources
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.GenerateResource.cache
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.csproj.CoreCompileInputs.cache
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.exe
+C:\Users\oscaa\Desktop\Interfaces_Graficas\Interfaces_Graficas\obj\Debug\Interfaces_Graficas.pdb

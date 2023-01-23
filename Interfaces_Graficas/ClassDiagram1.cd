@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Interfaces_Graficas.App" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interfaces_Graficas.Automovil" BaseTypeListCollapsed="true">
+    <Position X="14" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQABAAEAAQBAAAIAQAEAAA0BAAABAAAAAAAAAABAA=</HashCode>
+      <FileName>Automovil.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Interfaces_Graficas.EditAuto" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAgAAAAAgAAAAEAAAAAAIACAAAAAAAA=</HashCode>
+      <FileName>EditAuto.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Interfaces_Graficas.EditRepos" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="7" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAACgAAAAAEAAIAAAAAAAACAABAA=</HashCode>
+      <FileName>EditRepos.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Interfaces_Graficas.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAFAAAAkAAAAAAAACAAABAAAABABAAASAAABAAAI=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Interfaces_Graficas.NewAuto" BaseTypeListCollapsed="true">
+    <Position X="6" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEAAAgBAAAAAAAgAAAAAgAAAAEAAAAAAAACAAAAACAA=</HashCode>
+      <FileName>NewAuto.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Interfaces_Graficas.NewRepos" BaseTypeListCollapsed="true">
+    <Position X="6" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAQAAAgAAAAAEAAIAAAAAAAACACBAA=</HashCode>
+      <FileName>NewRepos.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Interfaces_Graficas.Repostaje" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAIAAIAAAAyCAAAEAgAAAAAAAAAAA=</HashCode>
+      <FileName>Repostaje.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Interfaces_Graficas.AutoSeleccionadoEventArgs">
+    <Position X="1.5" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Tablas.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interfaces_Graficas.Tablas" BaseTypeListCollapsed="true">
+    <Position X="3" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABCQAAAgECAAAEAAAAAgAAABAAAAEhAAAAAAg=</HashCode>
+      <FileName>Tablas.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Interfaces_Graficas.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interfaces_Graficas.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
